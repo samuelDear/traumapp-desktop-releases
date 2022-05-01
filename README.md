@@ -1,1 +1,1 @@
-# traumapp-desktop-releases
+# TraumApp para escritorio
