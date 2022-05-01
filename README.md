@@ -1,1 +1,1 @@
-# TraumApp para escritorio
+# TraumApp Desktop
